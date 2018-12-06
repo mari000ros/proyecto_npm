@@ -1,0 +1,14 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "trabajofinal de npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maribel Rosario Condori Llanos",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
